@@ -1,0 +1,23 @@
+Pes en punts de la nota de cada versió:
+
+D1 - Llegir un fitxer amb dades reals.               = 1
+
+H1 - Dibuixar un horari buit                         = 2
+     ("custom View" + ScrollView).
+
+H2 - Pintar a l'horari una llista d'assignatures     = 1
+     fictícia
+
+H3 - Activitat que permet afegir assignatures
+     a l'horari.                                     = 1
+
+Ajuntem:
+
+   - Mostrar en l'aplicació H3 les dades 
+     llegides a D1.                                  = 1
+
+...
+
+
+(Segons les versions que plantegeu després puc actualitzar 
+ aquest fitxer)
